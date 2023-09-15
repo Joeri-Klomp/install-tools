@@ -15,4 +15,3 @@ zsh
 #--get a custom setup of oh-my-zsh--
 git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ~/powerlevel10k
 source ~/powerlevel10k/powerlevel10k.zsh-theme
-(echo "n"; echo "n"; echo "n"; echo "y"; echo "1"; echo "2"; echo "2"; echo "3"; echo "1"; echo "3"; echo "2"; echo "1"; echo "n"; echo "1"; echo "y")
